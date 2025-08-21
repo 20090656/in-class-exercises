@@ -1,3 +1,3 @@
 # README
 
-This is a test for where I'll add things to github.
+This is where I will upload my exercises for coding practice.
